@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+/*
+	********************************
+	General body styles
+	*********************************
+*/
+body {
+  font-family: 'Raleway', sans-serif;
+
+}
+
+/*navbar*/
+.navbar-brand {
+  font-weight: bold;
+}
+/*
+	********************************
+	Break Points
+	*********************************
+*/
+@media only screen and(max-width: 1024px){
+
+}
