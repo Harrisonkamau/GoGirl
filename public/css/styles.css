@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway');
 @import url('https://fonts.googleapis.com/css?family=Bungee+Inline');
-
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
 /*
 	********************************
 	General body styles
@@ -33,16 +33,11 @@ body {
 }
 
 #parallax-unintended {
-	background-image: url("http://mdbootstrap.com/images/regular/nature/img%20(4).jpg");
+	background-image: url("/img/image-4.JPG");
     height: 400px;
    } 
 }
 
-#parallax-famplan {
-	background-image: url("http://mdbootstrap.com/images/regular/nature/img%20(4).jpg");
-    height: 400px;
-   } 
-}
 
 /*
 
@@ -138,4 +133,14 @@ body {
     right: 30px;
     bottom: 30px;
   }
+}
+
+/*
+  ********************************
+  Footer
+  *********************************
+*/
+
+footer h5 {
+	font-weight: 500;
 }
