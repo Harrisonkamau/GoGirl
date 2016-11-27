@@ -9,7 +9,20 @@ body {
   font-family: 'Raleway', sans-serif;
 
 }
+.space-bar {
+	margin-top: 20px;
+}
 
+
+/*Parallax*/
+#parallax-pregnancy {
+	background-image: url("http://mdbootstrap.com/images/slides/slide%20(11).jpg");
+    height: 400px;
+   } 
+
+.text-center h3 {
+	font-family: bold;
+}
 /*navbar*/
 .navbar-brand {
   font-weight: bold;
