@@ -1,5 +1,4 @@
 var path = require('path');
-// var public = "/home/harry/Documents/hackathons/GoGirl/public";
 var routes = function(app){
   app.route('/')
     .get(function(req, res){
